@@ -1,16 +1,23 @@
-# social_media_app
+## Team Project - Pro Batch (Social Media App)
+Welcome to our team project repository! 🚀 This repository is the home base for our group project as part of the Pro Batch course. Together, we're tackling this exciting challenge using Agile development and tools like JIRA to ensure a smooth workflow.
 
-A new Flutter project.
+## 📖 Project Overview
+This project is part of our journey to sharpen our skills in software development, teamwork, and project management. Over the course of several Scrum meetings, we’ll be collaborating to deliver a fully functional application, following industry-standard development processes.
 
-## Getting Started
+## 👥 Team Members
+Ashik Md. Moinul Hossain - [Role]<br>
+Md. Sakif Rahman Mishad - [Role]<br>
+Md Shahriar Pervez Efti - [Role]<br>
 
-This project is a starting point for a Flutter application.
+## 🚀 Objectives
+- Apply Agile methodologies in a real-world scenario.
+- Learn and use JIRA for task management.
+- Collaborate effectively to build a high-quality project.
+- Strengthen problem-solving and team-working skills.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technology Stack
+Here’s what we’ll be using for this project:<br>
+- Frontend: Dart, Flutter<br>
+- Backend: Firebase<br>
+- Tools: JIRA, GitHub<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
